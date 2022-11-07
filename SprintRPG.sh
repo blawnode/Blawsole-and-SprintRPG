@@ -1,0 +1,1 @@
+python Blawsole.py -clear -game=2
