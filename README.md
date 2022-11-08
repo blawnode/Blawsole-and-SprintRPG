@@ -2,7 +2,8 @@
  Pygame game console, and a Sprint RPG clone.
  
  The project showcases several useful methodologies/features:
- - **Meaningful code splitting**: File imports, classes, methods. Includes method nesting, like "Hit()", in BlawsoleSprintRPG.py's "start_sprint_game()".
+ - **Meaningful code splitting**: File imports, classes, methods.\
+  Includes method nesting, like "Hit()", in BlawsoleSprintRPG.py's "start_sprint_game()".
  - **Content adaptibility**. It's very easy to add new content like enemies, attack patterns and sounds.
  - **A basic CLI**. A very simplistic CLI (Command-Line Interface) menu to choose which game you want to play next.
 
