@@ -27,3 +27,6 @@ width=320px>
   <img src="https://github.com/blawnode/Blawsole-and-SprintRPG/blob/main/SprintRPG%20Screenshot.jpg"
 width=320px>
  </div>
+
+### Extra Credits:
+* The font used is [Silkscreen Bold, A.K.A "slkscrb"](https://www.dafont.com/silkscreen.font), made by Jason Aleksandr Kottke.
